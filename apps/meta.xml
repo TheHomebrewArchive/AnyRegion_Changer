@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>AnyRegion Changer</name>
+    <coder>tona</coder>
+    <version>1.1</version>
+    <release_date>200811300000</release_date>
+    <short_description>Changes your Wii's region.</short_description>
+    <long_description> AnyRegion Changer is an application which allows you to make non-temporary changes to various region and language settings on your Wii's SYSCONF and setting.txt files. You may call this a "Region Mod," i.e. the settings will persist. It also allows you to install the System Menu of another region if you so desire.
+    </long_description>
+</app>
